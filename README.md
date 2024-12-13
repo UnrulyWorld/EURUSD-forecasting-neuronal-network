@@ -1,1 +1,1 @@
-# EUR/USD forecast using neuronal network
+# EUR/USD forecast using CNN-LSTM network
